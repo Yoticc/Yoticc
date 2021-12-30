@@ -5,8 +5,8 @@
   <br>
   <a href="https://discord.gg/aBgmTXaa22">Discord</a> |
   <a href="https://www.youtube.com/channel/UCFYaBAMGYGuqv9f4PSlORJw">YouTube</a> |
-  <a href="https://ru.stackoverflow.com/users/477102/yotic">Stack Overflow</a> |
-  <a href="https://lolz.guru/yotic/">Code Pen</a>
+  <a href="https://lolz.guru/yotic/">Lolz</a> |
+  <a href="https://ru.stackoverflow.com/users/477102/yotic">Stack Overflow</a>
 </p>
 
 <p align="center">
