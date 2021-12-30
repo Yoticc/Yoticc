@@ -1,5 +1,5 @@
 <p align='center'>
-  <b>Hi 👋, I'm Kaneki</b><br>
+  <b>Hi 👋, I'm Yotic</b><br>
   <a href="https://discord.gg/aBgmTXaa22">Discord</a> |
   <a href="https://www.youtube.com/channel/UC-XII5SSqbMOF1UX3N0Gl8g">YouTube</a> |
   <a href="https://twitter.com/Kaneki_Web">Twitter</a> |
@@ -7,8 +7,8 @@
 </p>
 
 <p align="center"><br>
-  <a href="https://github.com/KanekiWeb">
-    <img src="https://lanyard-profile-readme.vercel.app/api/922450497074495539"/>
+  <a href="https://github.com/MrYotic">
+    <img src="https://lanyard-profile-readme.vercel.app/api/475581828246274048"/>
      </a>
 </p>
 
