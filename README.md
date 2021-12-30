@@ -25,5 +25,5 @@
 
 <p align="center"> 
   Compteur de visites :<br>
-  <img height="75" src="https://profile-counter.glitch.me/Yotic/count.svg" />
+  <img height="60" src="https://profile-counter.glitch.me/Yotic/count.svg" />
 </p>
