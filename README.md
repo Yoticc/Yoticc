@@ -6,12 +6,6 @@
   <a href="https://codepen.io/KanekiWeb">Code Pen</a>
 </p>
 
-<p align="center"><br>
-  <a href="https://github.com/MrYotic">
-    <img src="https://lanyard-profile-readme.vercel.app/api/475581828246274048"/>
-     </a>
-</p>
-
 <br><br>
 <p align="center">
 	<b>[C#] Languages [C#]</b>
