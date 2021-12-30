@@ -8,7 +8,7 @@
 
 <p align="center">
 	<code><img height="10" src="https://static.wikia.nocookie.net/wikies/images/4/43/Logo-csharp.png/revision/latest/scale-to-width-down/500?cb=20180617092325&path-prefix=ru"></code>
-	<b>[C#] Languages [C#]</b>
+	<b> Language </b>
 	<code><img height="10" src="https://static.wikia.nocookie.net/wikies/images/4/43/Logo-csharp.png/revision/latest/scale-to-width-down/500?cb=20180617092325&path-prefix=ru"></code>
 	<br><br>
 	<b>My Github Stats</b><br>
