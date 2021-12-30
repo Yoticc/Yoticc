@@ -1,5 +1,8 @@
 <p align='center'>
-  <b>Hi 👋, I'm Yotic</b><br>
+  <code><img height="10" src="https://static.wikia.nocookie.net/wikies/images/4/43/Logo-csharp.png/revision/latest/scale-to-width-down/500?cb=20180617092325&path-prefix=ru"></code>
+  <b>Hi 👋, I'm Yotic</b>
+  <code><img height="10" src="https://static.wikia.nocookie.net/wikies/images/4/43/Logo-csharp.png/revision/latest/scale-to-width-down/500?cb=20180617092325&path-prefix=ru"></code>
+  <br>
   <a href="https://discord.gg/aBgmTXaa22">Discord</a> |
   <a href="https://www.youtube.com/channel/UC-XII5SSqbMOF1UX3N0Gl8g">YouTube</a> |
   <a href="https://twitter.com/Kaneki_Web">Twitter</a> |
@@ -7,9 +10,6 @@
 </p>
 
 <p align="center">
-	<code><img height="10" src="https://static.wikia.nocookie.net/wikies/images/4/43/Logo-csharp.png/revision/latest/scale-to-width-down/500?cb=20180617092325&path-prefix=ru"></code>
-	<b> Language </b>
-	<code><img height="10" src="https://static.wikia.nocookie.net/wikies/images/4/43/Logo-csharp.png/revision/latest/scale-to-width-down/500?cb=20180617092325&path-prefix=ru"></code>
 	<br><br>
 	<b>My Github Stats</b><br>
     	<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrYotic&theme=white&hide_border=true">
