@@ -4,9 +4,9 @@
   <code><img height="10" src="https://static.wikia.nocookie.net/wikies/images/4/43/Logo-csharp.png/revision/latest/scale-to-width-down/500?cb=20180617092325&path-prefix=ru"></code>
   <br>
   <a href="https://discord.gg/aBgmTXaa22">Discord</a> |
-  <a href="https://www.youtube.com/channel/UC-XII5SSqbMOF1UX3N0Gl8g">YouTube</a> |
-  <a href="https://twitter.com/Kaneki_Web">Twitter</a> |
-  <a href="https://codepen.io/KanekiWeb">Code Pen</a>
+  <a href="https://www.youtube.com/channel/UCFYaBAMGYGuqv9f4PSlORJw">YouTube</a> |
+  <a href="https://ru.stackoverflow.com/users/477102/yotic">Stack Overflow</a> |
+  <a href="https://lolz.guru/yotic/">Code Pen</a>
 </p>
 
 <p align="center">
@@ -17,9 +17,6 @@
 	<br>
 	<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrYotic&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=White">
 </p>
-
-
- 
 
 ---  
 
