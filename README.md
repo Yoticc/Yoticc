@@ -6,7 +6,6 @@
   <a href="https://codepen.io/KanekiWeb">Code Pen</a>
 </p>
 
-<br><br>
 <p align="center">
 	<b>[C#] Languages [C#]</b>
 	<br>
