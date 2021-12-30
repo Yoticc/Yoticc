@@ -10,7 +10,6 @@
 </p>
 
 <p align="center">
-	<br><br>
 	<b>My Github Stats</b><br>
     	<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrYotic&theme=white&hide_border=true">
 	<br>
@@ -26,5 +25,5 @@
 
 <p align="center"> 
   Compteur de visites :<br>
-  <img height="100" src="https://profile-counter.glitch.me/Yotic/count.svg" />
+  <img height="75" src="https://profile-counter.glitch.me/Yotic/count.svg" />
 </p>
