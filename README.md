@@ -24,3 +24,5 @@
   Compteur de visites:<br>
   <img height="60" src="https://profile-counter.glitch.me/Yotic/count.svg" />
 </p>
+
+<img height="60" src="https://thiscatdoesnotexist.com/" />
