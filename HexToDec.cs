@@ -1,0 +1,1 @@
+public string HexEnumToDecEnum(string lines) => lines.Split('\n').Where(x => x.Contains("=")).ToList().ForEach(x => Console.WriteLine(x.Split('=').First() + "= "+ Convert.ToInt32(x.Substring(x.IndexOf("0x"), x.IndexOf(",") - x.IndexOf("0x")), 16) + ","));
