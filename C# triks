@@ -1,0 +1,12 @@
+|    Method |        Mean |     Error |   StdDev |
+|---------- |------------:|----------:|---------:|
+| LinqArray |    47.47 ns |  0.187 ns | 0.166 ns |
+|  ForArray | 1,556.73 ns | 10.619 ns | 9.933 ns |
+
+public void LinqArray() => A.Select(x => x * 2);
+
+public void ForArray()
+{
+    for (int i = 0; i < A.Length; i++)
+        A[i] = A[i] * 2;
+}
