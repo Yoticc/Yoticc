@@ -1,0 +1,24 @@
+|      Method |        Mean |    Error |   StdDev |
+|------------ |------------:|---------:|---------:|
+|   LinqArray |    89.73 ns | 1.791 ns | 2.132 ns |
+|    ForArray | 1,334.85 ns | 7.222 ns | 6.403 ns |
+| MemForArray | 1,336.59 ns | 3.515 ns | 2.744 ns |
+       
+public void LinqArray() => A.Where(x => x % 2 == 0).Select(x => x * 2
+
+public void ForArray()
+{
+    for (int i = 0; i < A.Length; i++)
+        if(A[i] % 2 == 0)
+            A[i] = A[i] * 2;
+}
+
+public void MemForArray()
+{            
+    for (int i = 0; i < A.Length; i++)
+    {
+        long v = A[i];
+        if (v % 2 == 0)
+            A[i] = v * 2;
+    }
+}
