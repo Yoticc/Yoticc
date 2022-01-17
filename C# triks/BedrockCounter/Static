@@ -1,7 +1,7 @@
-| Method |      Mean |    Error |   StdDev |
-|------- |----------:|---------:|---------:|
-|      F | 174.47 ms | 1.544 ms | 1.444 ms |
-|      S |  18.80 ms | 0.373 ms | 1.059 ms |
+| Method |     Mean |   Error |  StdDev |
+|------- |---------:|--------:|--------:|
+|      F | 174.6 ms | 1.22 ms | 1.14 ms |
+|      S | 171.1 ms | 0.46 ms | 0.40 ms |
 
 F - Readonly and unstatic
 S - Static
