@@ -1,0 +1,18 @@
+| Method |     Mean |     Error |    StdDev |
+|------- |---------:|----------:|----------:|
+| SumOne | 1.328 us | 0.0004 us | 0.0003 us |
+| OneSum | 1.343 us | 0.0112 us | 0.0104 us |
+
+public void SumOne()
+{
+    long num = 0;
+    for(int i = 0; i < A.Length; i++)
+        num = num + A[i];
+}
+
+public void OneSum()
+{
+    long num = 0;
+    for (int i = 0; i < A.Length; i++)
+        num = A[i] + num;
+}
