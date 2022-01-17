@@ -1,0 +1,7 @@
+| Method |     Mean |   Error |  StdDev |
+|------- |---------:|--------:|--------:|
+|      F | 171.9 ms | 0.87 ms | 0.77 ms |
+|      S | 170.4 ms | 0.53 ms | 0.47 ms |
+
+F = func
+S = without func
