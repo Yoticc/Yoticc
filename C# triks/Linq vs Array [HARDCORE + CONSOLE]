@@ -1,0 +1,20 @@
+|    Method |     Mean |     Error |    StdDev |
+|---------- |---------:|----------:|----------:|
+| LinqArray | 4.934 us | 0.0127 us | 0.0099 us |
+|  ForArray | 2.232 us | 0.0166 us | 0.0156 us |
+
+public void LinqArray() => A.Where(x => x % 2 == 0).ToList().ForEach(x => Console.Write((x * 2).ToString().ToList().Select(c => int.Parse(c.ToString())).Sum()));
+
+public void ForArray()
+{
+    for (int i = 0; i < A.Length; i++)
+        if(A[i] % 2 == 0)
+        {
+            A[i] = A[i] * 2;
+            char[] values = A[i].ToString().ToArray();
+            int[] ivalues = new int[values.Length];
+            for (int o = 0; o < values.Length; o++)
+                ivalues[o] = int.Parse(values[o].ToString());
+            Console.Write(ivalues.Sum());
+        }
+}
