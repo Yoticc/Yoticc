@@ -18,6 +18,7 @@
 	<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrYotic&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=White">
         <br>
         <img height="100" src="https://stars.medv.io/MrYotic/Readme">
+        ![Lines of code](https://img.shields.io/tokei/lines/github/DooD-Inc/DooDHack-v2)
 </p>
 
 ---  
