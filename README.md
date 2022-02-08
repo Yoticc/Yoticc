@@ -16,8 +16,6 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=MrYotic&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=white">
 	<br>
 	<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrYotic&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=White">
-        <br>
-        <img height="10" src="https://img.shields.io/tokei/lines/github/MrYotic/MZip">
 </p>
 
 ---  
