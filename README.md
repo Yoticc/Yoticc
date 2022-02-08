@@ -17,7 +17,7 @@
 	<br>
 	<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrYotic&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=White">
         <br>
-        <img height="100" src="https://stars.medv.io/MrYotic/badges">
+        <img height="100" src="https://stars.medv.io/MrYotic/MrYotic">
 </p>
 
 ---  
