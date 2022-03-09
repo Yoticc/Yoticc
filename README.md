@@ -8,10 +8,11 @@
   <a href="https://lolz.guru/yotic/">Lolz</a> |
   <a href="https://ru.stackoverflow.com/users/477102/yotic">Stack Overflow</a>
 </p>
+<p align="center">
 <code><img height="10" src="https://static.wikia.nocookie.net/wikies/images/4/43/Logo-csharp.png/revision/latest/scale-to-width-down/500?cb=20180617092325&path-prefix=ru">
-	<code><img height="10" src="https://static.wikia.nocookie.net/wikies/images/4/43/Logo-csharp.png/revision/latest/scale-to-width-down/500?cb=20180617092325&path-prefix=ru">
-		<code><img height="10" src="https://static.wikia.nocookie.net/wikies/images/4/43/Logo-csharp.png/revision/latest/scale-to-width-down/500?cb=20180617092325&path-prefix=ru">
-			<code><img height="10" src="https://static.wikia.nocookie.net/wikies/images/4/43/Logo-csharp.png/revision/latest/scale-to-width-down/500?cb=20180617092325&path-prefix=ru">
+<code><img height="10" src="https://static.wikia.nocookie.net/wikies/images/4/43/Logo-csharp.png/revision/latest/scale-to-width-down/500?cb=20180617092325&path-prefix=ru">
+<code><img height="10" src="https://static.wikia.nocookie.net/wikies/images/4/43/Logo-csharp.png/revision/latest/scale-to-width-down/500?cb=20180617092325&path-prefix=ru">
+</p>
 <br>
 <p align="center">
 	<b>My Github Stats</b><br>
