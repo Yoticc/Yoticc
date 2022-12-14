@@ -9,7 +9,6 @@
   <a href="https://ru.stackoverflow.com/users/477102/yotic">Stack Overflow</a>
 </p>
 <p align="center">
-	<b>My Github Stats</b><br>
     	<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrYotic&theme=white&hide_border=true">
 </p>
 
