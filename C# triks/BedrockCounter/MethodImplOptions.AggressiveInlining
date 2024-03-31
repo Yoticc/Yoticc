@@ -1,7 +1,0 @@
-| Method |     Mean |   Error |  StdDev |
-|------- |---------:|--------:|--------:|
-|      F | 173.3 ms | 1.04 ms | 0.97 ms |
-|      S | 172.9 ms | 0.34 ms | 0.29 ms |
-
-F - With
-S - Without
